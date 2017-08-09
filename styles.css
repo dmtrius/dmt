@@ -1,0 +1,6 @@
+@-moz-document url(about:newtab){
+ #newtab-margin-top,
+ #newtab-margin-bottom,
+ #newtab-search-container {display:none!important}
+}
+
